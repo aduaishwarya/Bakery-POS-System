@@ -1,0 +1,1 @@
+Bakery POS System is a desktop-based Point of Sale application developed to streamline billing and inventory operations for bakery shops. The system enables fast order processing, product management, and customer billing with an intuitive and user-friendly interface.
